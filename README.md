@@ -1,7 +1,7 @@
 ## Portfólio de Análise Geoespacial com Python
 Repositório com projetos de análise e processamento de dados geoespaciais desenvolvidos em Python.
 
-##Sobre os Projetos
+## Sobre os Projetos
 Este repositório contém três projetos práticos que demonstram diferentes aspectos da análise geoespacial com Python, utilizando as principais bibliotecas do ecossistema geo-python:
 
 Análise Espacial de Estabelecimentos Comerciais
