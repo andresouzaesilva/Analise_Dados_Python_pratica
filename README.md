@@ -4,7 +4,7 @@ Repositório com projetos de análise e processamento de dados geoespaciais dese
 ## Sobre os Projetos
 Este repositório contém três projetos práticos que demonstram diferentes aspectos da análise geoespacial com Python, utilizando as principais bibliotecas do ecossistema geo-python:
 
-Análise Espacial de Estabelecimentos Comerciais
+# Análise Espacial de Estabelecimentos Comerciais
 
 Análise de distribuição geográfica e densidade de estabelecimentos usando dados vetoriais.
 
@@ -33,7 +33,7 @@ Operações de interseção e buffer
 
 
 
-Análise de Rotas e Acessibilidade Urbana
+# Análise de Rotas e Acessibilidade Urbana
 
 Análise de rede viária, pontos de interesse e áreas de influência.
 
@@ -49,8 +49,8 @@ Cálculo de distâncias e rotas
 
 
 
-🛠️ Tecnologias e Bibliotecas
-Core Libraries
+Tecnologias e Bibliotecas
+
 
 Python 3.8+
 pandas 1.5+ - Manipulação de dados
@@ -64,10 +64,7 @@ matplotlib - Visualizações
 shapely - Geometrias
 networkx - Análise de redes
 
-Sistemas de Coordenadas
 
-EPSG:4326 - WGS 84 (lat/lon)
-EPSG:31983 - SIRGAS 2000 UTM Zone 23S (métrica)
 
 
 # Instalar dependências
